@@ -1,5 +1,6 @@
 # CS420-Project-2
-NQueens Project
+
+Rough Description:
 
 N Queens AI Project. Goal is to implement multiple algorithms to solve the N Queens problem when given random board inputs.
 
